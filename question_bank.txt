@@ -1,0 +1,300 @@
+Which is the highest mountain peak in India?
+Kanchenjunga
+Nanda Devi
+Mount Everest
+K2 (Godwin Austen)
+a
+Which river is known as the 'Sorrow of Bihar'?
+Ganga
+Kosi
+Yamuna
+Son
+b
+Which Indian state has the longest coastline?
+Maharashtra
+Tamil Nadu
+Gujarat
+Andhra Pradesh
+c
+The Tropic of Cancer does NOT pass through which of these Indian states?
+Rajasthan
+Odisha
+Chhattisgarh
+Tripura
+b
+Which is the smallest state in India by area?
+Sikkim
+Goa
+Tripura
+Mizoram
+b
+Where is the Duncan Passage located?
+Between South Andaman and Little Andaman
+Between Little Andaman and Car Nicobar
+Between Minicoy and Amindivi
+Between Lakshadweep and Maldives
+a
+Which Indian state is the largest producer of coffee?
+Kerala
+Tamil Nadu
+Karnataka
+Assam
+c
+The standard meridian of India (82°30' E) passes through which city?
+Mirzapur
+Patna
+New Delhi
+Jaipur
+a
+Which channel separates the Andaman Islands from the Nicobar Islands?
+9 Degree Channel
+10 Degree Channel
+8 Degree Channel
+English Channel
+b
+With which country does India share its longest international border?
+China
+Pakistan
+Bangladesh
+Nepal
+c
+Which of the following rivers flows into the Arabian Sea?
+Godavari
+Krishna
+Narmada
+Kaveri
+c
+In which state is the Chilika Lake located?
+Odisha
+West Bengal
+Andhra Pradesh
+Kerala
+a
+Which city is known as the 'Silicon Valley of India'?
+Hyderabad
+Mumbai
+Bengaluru
+Pune
+c
+Which is the oldest mountain range in India?
+Himalayas
+Aravalli Range
+Western Ghats
+Satpura Range
+b
+The Kaziranga National Park is famous for which animal?
+Bengal Tiger
+One-horned Rhinoceros
+Asiatic Lion
+Snow Leopard
+b
+Which Indian state is completely surrounded by Bangladesh on three sides?
+Mizoram
+Meghalaya
+Tripura
+Assam
+c
+Where does the Alaknanda river meet the Bhagirathi river to form the Ganga?
+Rudraprayag
+Devprayag
+Haridwar
+Rishikesh
+b
+Identify the conjunction in the sentence: 'I wanted to go for a walk, but it started raining.'
+wanted
+but
+for
+started
+b
+Choose the correct form of the verb: 'Neither the teacher nor the students ____ present today.'
+was
+were
+is
+am
+b
+What is the superlative form of the adjective 'bad'?
+Badder
+Baddest
+Worse
+Worst
+d
+Choose the correct pronoun: 'She is the girl ____ won the first prize.'
+which
+whom
+who
+whose
+c
+Identify the part of speech for the underlined word: 'She ran quickly to catch the bus.'
+Adjective
+Adverb
+Noun
+Verb
+b
+Fill in the blank with the correct article: 'He is ____ honorable man.'
+a
+an
+the
+no article needed
+b
+Which of these sentences is written in the passive voice?
+The chef cooked a delicious meal.
+A delicious meal was cooked by the chef.
+The chef is cooking a delicious meal.
+The chef will cook a delicious meal.
+b
+What is the plural form of the word 'criterion'?
+Criterions
+Criteria
+Criterias
+Criteriones
+b
+Fill in the blank: 'If I ____ you, I would accept the job offer.'
+was
+am
+were
+been
+c
+Identify the antonym of the word 'Fragile'.
+Weak
+Delicate
+Robust
+Brittle
+c
+Choose the correctly spelled word.
+Receive
+Recieve
+Receve
+Reiceve
+a
+What type of noun is the word 'flock' in 'a flock of birds'?
+Proper noun
+Abstract noun
+Collective noun
+Material noun
+c
+Fill in the blank with the correct preposition: 'He has been living here ____ 2015.'
+for
+since
+from
+in
+b
+What is the past participle of the verb 'fly'?
+Flew
+Flied
+Flown
+Flying
+c
+Which sentence contains a transitive verb?
+She slept soundly.
+The birds are flying.
+He read a book.
+The baby cried loudly.
+c
+Identify the synonym of 'Meticulous'.
+Careless
+Detailed
+Lazy
+Hasty
+b
+What is the function of an interjection?
+To connect clauses
+To modify a verb
+To express sudden emotion
+To replace a noun
+c
+Which of the following character sets is used to define a dictionary in Python?
+[]
+()
+{}
+<>
+c
+How do you access the value associated with the key 'age' in a dictionary named 'user'?
+user('age')
+user['age']
+user.age
+userget('age')
+b
+What will d.get('salary', 5000) return if the key 'salary' does NOT exist in dictionary d?
+KeyError
+None
+5000
+0
+c
+Which dictionary method removes all items from the dictionary?
+delete()
+remove()
+clear()
+pop()
+c
+Which of the following is NOT a valid key type in a Python dictionary?
+string
+integer
+tuple
+list
+d
+What is the output of: len({'a': 1, 'b': 2, 'a': 3})?
+3
+2
+1
+Error
+b
+How can you check if a key 'score' exists in a dictionary 'data'?
+if 'score' in data:
+if data.has_key('score'):
+if 'score' exists data:
+if data['score'] != None:
+a
+Which method returns a view object containing all the keys of a dictionary?
+all_keys()
+keys()
+get_keys()
+values()
+b
+What does the popitem() method do in Python 3.7+ dictionaries?
+Removes a random item.
+Removes the first item inserted.
+Removes and returns the last inserted key-value pair.
+Removes the item with the highest key value.
+c
+What is the correct syntax to change the value of an existing key 'status' to 'active' in dictionary 'p'?
+p.status = 'active'
+p['status'] == 'active'
+p['status'] = 'active'
+p.update('status': 'active')
+c
+Which method returns all key-value pairs of a dictionary as tuples?
+pairs()
+items()
+elements()
+tuples()
+b
+What will be the output of: d = {'x': 1}; print(d['y'])?
+None
+0
+KeyError
+ValueError
+c
+How do you merge dictionary d2 into dictionary d1 in Python 3.9+?
+d1 = d1 + d2
+d1 |= d2
+d1.merge(d2)
+d1.append(d2)
+b
+Can a Python dictionary contain duplicate values?
+No, both keys and values must be unique.
+Yes, values can be duplicated, but keys must be unique.
+Yes, keys can be duplicated, but values must be unique.
+No, it causes a SyntaxError.
+b
+What is the output of: print(type({}))?
+<class 'set'>
+<class 'dict'>
+<class 'list'>
+<class 'tuple'>
+b
+Which keyword is used to completely delete a dictionary variable from memory?
+remove
+del
+drop
+discard
+b
